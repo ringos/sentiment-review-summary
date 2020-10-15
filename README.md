@@ -13,7 +13,7 @@ Code for our COLING-2020 paper "Making the Best Use of Review Summary for Sentim
 - /param/config_toy.py is just an example config file. You may create your own config file. 
 
 ### Cite
-If you find our code useful, please consider cite our paper: 
+If you find our code useful, please consider citing our paper: 
 ```
 @inproceedings{yang-etal-2020-making,
     author    = {Sen Yang and
