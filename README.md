@@ -1,6 +1,6 @@
 # sentiment-review-summary
 
-Code for our COLING2020 paper "Making the Best Use of Review Summary for Sentiment Analysis"
+Code for our COLING-2020 paper "Making the Best Use of Review Summary for Sentiment Analysis"
 
 ### Before you can run the code
 - Our experiments were conducted under `pytorch==1.0.1` and `cudatoolkit==9.0`, with `python==3.6`. 
@@ -11,3 +11,18 @@ Code for our COLING2020 paper "Making the Best Use of Review Summary for Sentime
 ### Run the code
 `python main.py --config config_toy`
 - /param/config_toy.py is just an example config file. You may create your own config file. 
+
+### Cite
+If you find our code useful, please consider cite our paper: 
+```
+@inproceedings{yang-etal-2020-making,
+    author    = {Sen Yang and
+                 Leyang Cui and
+                 Jun Xie and
+                 Yue Zhang},
+    title     = {Making the Best Use of Review Summary for Sentiment Analysis},
+    booktitle = {Proceedings of the 28th International Conference on Computational
+                 Linguistics},
+    year      = {2020}
+}
+```
