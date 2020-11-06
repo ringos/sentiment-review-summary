@@ -1,6 +1,6 @@
 # sentiment-review-summary
 
-Code for our COLING-2020 paper "Making the Best Use of Review Summary for Sentiment Analysis"
+Code for our COLING-2020 paper ["Making the Best Use of Review Summary for Sentiment Analysis"](https://arxiv.org/pdf/1911.02711.pdf)
 
 ### Before running the code
 - Our experiments were conducted under `pytorch==1.0.1` and `cudatoolkit==9.0`, with `python==3.6`. 
