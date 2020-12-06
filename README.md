@@ -1,6 +1,6 @@
 # sentiment-review-summary
 
-Code for our COLING-2020 paper ["Making the Best Use of Review Summary for Sentiment Analysis"](https://ringos.github.io/files/coling2020_sentiment.pdf)
+Code for our COLING-2020 paper ["Making the Best Use of Review Summary for Sentiment Analysis"](https://www.aclweb.org/anthology/2020.coling-main.15.pdf)
 
 ### Before running the code
 - Our experiments were conducted under `pytorch==1.0.1` and `cudatoolkit==9.0`, with `python==3.6`. 
@@ -16,13 +16,17 @@ Code for our COLING-2020 paper ["Making the Best Use of Review Summary for Senti
 If you find our code useful, please consider citing our paper: 
 ```
 @inproceedings{yang-etal-2020-making,
-    author    = {Sen Yang and
-                 Leyang Cui and
-                 Jun Xie and
-                 Yue Zhang},
-    title     = {Making the Best Use of Review Summary for Sentiment Analysis},
-    booktitle = {Proceedings of the 28th International Conference on Computational
-                 Linguistics},
-    year      = {2020}
+    title = "Making the Best Use of Review Summary for Sentiment Analysis",
+    author = "Yang, Sen  and
+      Cui, Leyang  and
+      Xie, Jun  and
+      Zhang, Yue",
+    booktitle = "Proceedings of the 28th International Conference on Computational Linguistics",
+    month = dec,
+    year = "2020",
+    address = "Barcelona, Spain (Online)",
+    publisher = "International Committee on Computational Linguistics",
+    url = "https://www.aclweb.org/anthology/2020.coling-main.15",
+    pages = "173--184",
 }
 ```
